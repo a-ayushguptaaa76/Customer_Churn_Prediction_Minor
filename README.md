@@ -160,4 +160,4 @@ The initial dataset/schema was carried over from the earlier Customer Churn Pred
 
 **Ayush Kumar Gupta**
 
-[GitHub](https://github.com/Blood79) · [LinkedIn](https://linkedin.com/in/ayush-kumar-gupta-43314b238)
+[GitHub](https://github.com/a-ayushguptaaa76) · [LinkedIn](https://linkedin.com/in/ayush-kumar-gupta-43314b238)
